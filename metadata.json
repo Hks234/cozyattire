@@ -1,0 +1,6 @@
+{
+  "name": "Cozy Attire Boutique",
+  "description": "Luxury ethnic fashion boutique in Baloda Bazar, Chhattisgarh featuring handcrafted sarees, lehengas, kurti sets with live video call shopping and worldwide shipping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
